@@ -69,8 +69,7 @@ Link - [INTRODUCTION TO PROBABILITY AND STATISTICS FOR ENGINEERS AND SCIENTISTS]
 13. **Quality Control**
 14. **Life Testing**
 15. **Simulation, Bootstrap Methods, and Permutation Tests**
-16. **Machine Learning and Big Data** _(Sixth Edition only)_  
-
+16. **Machine Learning and Big Data** _(Sixth Edition only)_
 
 ## Alignment with GATE DA 2025 Syllabus
 
@@ -84,8 +83,6 @@ Link - [INTRODUCTION TO PROBABILITY AND STATISTICS FOR ENGINEERS AND SCIENTISTS]
 | **Life Testing (Exponential Models, CLT, etc.)** | Chapter 14                                                 |
 | **Advanced Inference & Simulation Methods**      | Chapter 15                                                 |
 | **(Emerging Techniques: ML/Big Data)**           | Chapter 16 — optional, but growing in relevance to GATE DA |
-
-
 
 ## Suggested Focus for GATE DA 2025 Preparation
 
